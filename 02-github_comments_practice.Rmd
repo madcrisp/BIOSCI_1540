@@ -49,7 +49,7 @@ write.csv(dat, "dat.csv")
 
 * E
 * J
-* M
+* M sup
 * R
 * Z
 * other
